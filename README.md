@@ -1,7 +1,7 @@
 # whatismyip
 Command to get your ip in the terminal
 ```
-go get github.com/graciousstudios/whatismyip
+go get github.com/ryuken/whatismyip
 
-go install github.com/graciousstudios/whatismyip
+go install github.com/ryuken/whatismyip
 ```
